@@ -1,6 +1,6 @@
 Project06 - Responsive Landing Page
 
-[live@](https://logobibin.netlify.app/)
+[live@](https://logo-gray.vercel.app/)
 
 This project is a responsive landing page built using HTML5, Tailwind CSS, and Font Awesome. It features a modern layout with a navigation bar, hero section, and call-to-action buttons — all optimized for mobile and desktop screens.
 
